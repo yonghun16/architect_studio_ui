@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=건축%20설계%사무소%20APP%20UI%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=건축%20설계%20사무소%20APP%20UI%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/yonghun16/architect_studio_ui/main/design.png" width=800px />
